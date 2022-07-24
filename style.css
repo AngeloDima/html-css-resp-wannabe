@@ -133,16 +133,30 @@ img {
 
  @media only screen and (max-width: 768px){
 
+    /* Section 1 Start */
+
    .lessons > .container > h2{
     width: 90vw;
    }
 
 
-
-
-
-
     .lessons > .container > .row > .col{
         width: 45vw;
     }
- }
+ 
+     
+    /* Section 1 End */
+
+
+
+    /* Section 2 Start */
+
+    .steps > .container > h2{
+        width: 90vw;
+    }
+
+    .steps > .container > .row {
+        width: 90vw;
+    }
+
+}
