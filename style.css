@@ -133,6 +133,10 @@ img {
 
  @media only screen and (max-width: 768px){
 
+    *{
+        overflow-x: hidden;
+    }
+
     /* Section 1 Start */
 
    .lessons > .container > h2{
@@ -159,4 +163,12 @@ img {
         width: 90vw;
     }
 
+    /* Section 2 END */
+
+
+    /* Section 3 Start */
+
+    .why-us > .container{
+        width: 90vw;
+    }
 }
