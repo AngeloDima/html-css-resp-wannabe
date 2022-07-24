@@ -132,7 +132,17 @@ img {
 
 
  @media only screen and (max-width: 768px){
+
+   .lessons > .container > h2{
+    width: 90vw;
+   }
+
+
+
+
+
+
     .lessons > .container > .row > .col{
-        width: 30%;
+        width: 45vw;
     }
  }
