@@ -224,4 +224,28 @@ img {
 
 
     /* Section 2 END */
+
+    /* Section 3 Start */
+
+    .why-us > .container{
+        width: 100%;
+    }
+    
+    .why-us > .container > .row{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .why-us > .container > .row > .col-left{
+        width: 100%;
+        margin-bottom: 15%;
+    }
+
+    .why-us > .container > .row > .col-right{
+        width: 100%;
+    }
+
+
+    /* Section 3 End */
 }
