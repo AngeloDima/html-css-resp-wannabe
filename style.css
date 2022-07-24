@@ -185,6 +185,9 @@ img {
 
 
 @media only screen and (max-width: 480px){
+
+    /* Section 1 Start */
+
     .lessons > .container{
         width: 100%;
     }
@@ -199,4 +202,6 @@ img {
     width: 100%;
     margin-bottom: 30%;
     }
+
+    /* Section 1 END */
 }
