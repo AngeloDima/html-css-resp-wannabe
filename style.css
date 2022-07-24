@@ -200,8 +200,28 @@ img {
 
     .lessons > .container > .row > .col{   
     width: 100%;
-    margin-bottom: 30%;
+    margin-bottom: 25%;
     }
 
     /* Section 1 END */
+
+
+    /* Section 2 Start */
+
+    .steps > .container{
+        width: 100%;
+    }
+
+    .steps > .container > .row{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .steps > .container > .row > .col{
+        width: 100%;
+         margin-bottom: 15%;
+    }
+
+
+    /* Section 2 END */
 }
