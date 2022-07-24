@@ -171,4 +171,32 @@ img {
     .why-us > .container{
         width: 90vw;
     }
+
+    /* Section 3 END */
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+    .lessons > .container{
+        width: 100%;
+    }
+
+    .lessons > .container > .row{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .lessons > .container > .row > .col{   
+    width: 100%;
+    margin-bottom: 30%;
+    }
 }
